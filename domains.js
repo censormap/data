@@ -8,11 +8,11 @@ const DOMAINS = [
   // News and media
   /*"dw.com", "reuters.com"*/ "bbc.com",
   // Communication
-  "line.me", "telegram.org", "telegra.ph", "whatsapp.com", /*"viber.com",*/
+  "line.me", "telegram.org", "telegra.ph", "whatsapp.com", "messenger.com", /*"viber.com",*/
   // Social networks
   "reddit.com", "twitter.com", "facebook.com", "linkedin.com", "stackexchange.com",
   // Video and audio
-  "youtube.com", /*"dailymotion.com"*/, "soundcloud.com", "vimeo.com",
+  "youtube.com", /*"dailymotion.com"*/, /*"soundcloud.com"*/, "vimeo.com",
   // Journalism
   "cpj.org", "indexoncensorship.org", /*"rsf.org",*/
   // Academic research
