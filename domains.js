@@ -16,7 +16,7 @@ const DOMAINS = [
   // Journalism
   "cpj.org", "indexoncensorship.org", /*"rsf.org",*/
   // Academic research
-  "sci-hub.cc", "arxiv.org",
+  "sci-hub.bz", "arxiv.org",
   // Tor
   "torproject.org",
   // Marketplaces
