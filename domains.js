@@ -1,4 +1,6 @@
 const DOMAINS = [
+  // VPN
+  "privateinternetaccess.com", "openvpn.net",
   // Information and education
   "wikipedia.org", /*"wikimedia.org",*/ "wikibooks.org", "wikimediafoundation.org",
   // Leaks
