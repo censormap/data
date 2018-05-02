@@ -35,7 +35,7 @@ const DOMAINS = [
   // Web archives
   "archive.org",
   // Crypto
-  "coinbase.com", "coindesk.com", "ethereum.org", "bitcoin.org"
+  "coinbase.com", /*"coindesk.com",*/ "ethereum.org", "bitcoin.org"
 ];
 // TODO: Country-specific TLDs
 
