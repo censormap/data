@@ -18,7 +18,7 @@ const DOMAINS = [
   // Journalism
   "cpj.org", "indexoncensorship.org", /*"rsf.org",*/
   // Academic research
-  /*"sci-hub.bz",*/ "arxiv.org",
+  /*"sci-hub.tw",*/ "arxiv.org",
   // Tor
   "torproject.org",
   // Marketplaces
@@ -28,10 +28,14 @@ const DOMAINS = [
   // Adult
     // TODO
   // Source code
-  "apache.org", "github.com", "gitlab.com", "bitbucket.com",
+  "apache.org", "mozilla.org", "github.com", "gitlab.com", "bitbucket.com",
+  // Infra
+  "cloudflare.com", "akamai.com", /*"github.io",*/
   // TODO: Torrent sites, .onion
   // Web archives
-  "archive.org"
+  "archive.org",
+  // Crypto
+  "coinbase.com", "coindesk.com", "ethereum.org", "bitcoin.org"
 ];
 // TODO: Country-specific TLDs
 
@@ -40,3 +44,4 @@ const DOMAINS = [
 // viber.com, reuters.com, rsf.org, wikimedia.org, wikileaks.org, dw.com,
 // dailymotion.com
 // Sites that are down long-term: thepiratebay.se
+// Sites that keep moving: sci-hub.*
