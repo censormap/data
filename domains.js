@@ -2,15 +2,15 @@ const DOMAINS = [
   // VPN
   "privateinternetaccess.com", "openvpn.net",
   // Information and education
-  "wikipedia.org", /*"wikimedia.org",*/ "wikibooks.org", "wikimediafoundation.org",
+  "wikipedia.org", /*"wikimedia.org",*/ "wikibooks.org", /*"wikimediafoundation.org"*/,
   // Leaks
   /*"wikileaks.org",*/ "liveleak.com",
   // Search engines
   "google.com", "yandex.com", "www.baidu.com", "bing.com",
   // News and media
-  /*"dw.com", "reuters.com"*/ "bbc.com",
+  /*"dw.com", "reuters.com"*/ "bbc.com", "theguardian.com",
   // Communication
-  "line.me", "telegram.org", "telegra.ph", "whatsapp.com", "messenger.com", /*"viber.com",*/
+  "line.me", "telegram.org", "telegra.ph", "whatsapp.com", /*"messenger.com"*/, /*"viber.com",*/
   // Social networks
   "reddit.com", "twitter.com", "facebook.com", "linkedin.com", "stackexchange.com",
   // Video and audio
